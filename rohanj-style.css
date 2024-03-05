@@ -1,0 +1,234 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(49, 49, 49);
+}
+
+.header h2 {
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.navbar ul {
+    margin-left: 530px;
+    padding: 18px;
+}
+
+.navbar li {
+    display: inline;
+    list-style: none;
+    margin-left: 15px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.mid1 {
+    background-color: rgb(243, 174, 125);
+    height: 700px;
+}
+
+.mid1 h2 {
+    padding: 20px 0px 0px 50px;
+    font-family: sans-serif;
+    display: block;
+}
+
+.mid1 p {
+    padding: 20px 0px 0px 50px;
+    font-family: monospace;
+    font-size: 16px;
+    display: block;
+}
+
+.img {
+    background-color: rgb(170, 167, 167);
+    height: 500px;
+    margin: 40px 40px 20px 40px;
+    border-radius: 10px;
+}
+
+.img h1 {
+    color: grey;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 18%;
+}
+
+.mid2 {
+    background-color: rgb(103, 201, 240);
+    height: 500px;
+}
+
+.mid2 h2 {
+    padding: 30px;
+}
+
+.card1 {
+    background-color: rgb(248, 194, 95);
+    margin: 70px 780px 10px 100px;
+    border-radius: 10px;
+}
+
+.card1 .cont1 {
+    padding: 15px;
+}
+
+.card1 .cont1 h3 {
+    padding-bottom: 10px;
+}
+
+.card2 {
+    background-color: rgb(14, 162, 189);
+    margin: -108px 210px 10px 770px;
+    border-radius: 10px;
+}
+
+.card2 .cont2 {
+    padding: 15px;
+}
+
+.card2 .cont2 h3 {
+    padding-bottom: 10px;
+}
+
+.card3 {
+    background-color: rgb(245, 139, 139);
+    margin: 80px 500px 10px 480px;
+    border-radius: 10px;
+}
+
+.card3 .cont3 {
+    padding: 15px;
+}
+
+.card3 .cont3 h3 {
+    padding-bottom: 10px;
+}
+
+.mid3 {
+    background-color: rgb(190, 250, 130);
+    height: 1700px;
+}
+
+.img2 {
+    background-color: rgb(170, 167, 167);
+    height: 500px;
+    border-radius: 10px;
+    margin: 40px 40px 20px 40px;
+}
+
+.img2 h1 {
+    color: grey;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 18%;
+}
+
+.mid3 h2 {
+    padding: 20px 0px 0px 50px;
+    font-family: sans-serif;
+    display: block;
+}
+
+.mid4 {
+    background-color: rgb(207, 177, 44);
+    height: 500px;
+}
+
+.mid4 h2 {
+    padding: 20px 0px 0px 50px;
+    font-family: sans-serif;
+    display: block;
+}
+
+.mid4 .img4 {
+    margin: 50px 10px 10px 50px;
+}
+
+.mid5 {
+    background-color: royalblue;
+    height: 1370px;
+}
+
+.mid5 h2 {
+    padding: 20px 0px 0px 50px;
+    font-family: sans-serif;
+    display: block;
+}
+
+.mid5 .form-control {
+    background-color: white;
+    height: 1175px;
+    margin: 80px 150px 30px 380px;
+    border-radius: 20px;
+}
+
+form {
+    padding: 30px;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 14px;
+    padding-top: 20px;
+}
+
+form #text {
+    padding: 7px;
+    width: 700px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+
+form #country {
+    width: 750px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid grey;
+}
+
+form #text-area {
+    width: 750px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.btn {
+    margin: 25px 0px 20px 0px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: rgb(71, 70, 70);
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+    margin: 100px 0px 0px 0px;
+    background-color: rgb(68, 67, 67);
+}
+
+.footer h3 {
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-family: cinzel;
+}
